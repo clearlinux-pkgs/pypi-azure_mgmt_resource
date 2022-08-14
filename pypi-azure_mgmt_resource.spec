@@ -4,7 +4,7 @@
 #
 Name     : pypi-azure_mgmt_resource
 Version  : 21.1.0
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/b6/aa/137a7328aecbd22c0bc94c2841eaf4185096f094885bd58719c2f8dafcb9/azure-mgmt-resource-21.1.0.zip
 Source0  : https://files.pythonhosted.org/packages/b6/aa/137a7328aecbd22c0bc94c2841eaf4185096f094885bd58719c2f8dafcb9/azure-mgmt-resource-21.1.0.zip
 Summary  : Microsoft Azure Resource Management Client Library for Python
