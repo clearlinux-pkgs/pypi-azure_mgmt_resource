@@ -1,5 +1,5 @@
 PKG_NAME := pypi-azure_mgmt_resource
-URL = https://files.pythonhosted.org/packages/0a/a6/2457977be3b402ea951d107edc4e7b1f4c670e3bb1c18943c8d2f70ee688/azure-mgmt-resource-23.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/89/60/19471f7f2499888da9d5abc7ff8c470a6d620fbf35657fff31df9eeb483d/azure-mgmt-resource-23.1.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
